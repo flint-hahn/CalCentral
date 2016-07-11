@@ -5,7 +5,7 @@
 	<key>ApplicationVersion</key>
 	<array>
 		<string>com.omnigroup.OmniGraffle6</string>
-		<string>169.8.0.255486</string>
+		<string>169.14.0.260934</string>
 	</array>
 	<key>CreationDate</key>
 	<string>2015-03-25 17:29:18 +0000</string>
@@ -11788,7 +11788,7 @@ Joy}</string>
 		<key>Expanded_Canvases</key>
 		<array/>
 		<key>Frame</key>
-		<string>{{0, 4}, {1440, 873}}</string>
+		<string>{{-2, 15}, {1754, 1162}}</string>
 		<key>ShowInfo</key>
 		<true/>
 		<key>ShowRuler</key>
@@ -11800,7 +11800,7 @@ Joy}</string>
 		<key>TopSlabHeight</key>
 		<real>617</real>
 		<key>VisibleRegion</key>
-		<string>{{169, 1806}, {904, 715}}</string>
+		<string>{{6, 409}, {1218, 1004}}</string>
 		<key>Zoom</key>
 		<real>1</real>
 		<key>ZoomValues</key>
